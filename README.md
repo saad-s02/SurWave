@@ -3,7 +3,7 @@
 Use Secrets.json to store and access connection string for SQLServer "connectionStringSql"
 
 ### Description<br/>
-Surwave is a web application that allows administrators to create and manage surveys, users, and user groups. Users can log in with their email and password, and take the surveys assigned to them. The application is built with Angular and .NET 7, and uses a SQL database to store the data. <br/>
+SurWave is a web application that allows administrators to create and manage surveys, users, and user groups. Users can log in with their email and password, and take the surveys assigned to them. The application is built with Angular and .NET 7, and uses a SQL database to store the data. <br/>
 
 ### Features<br/>
 - Admin dashboard: Admins can create, edit, delete, and view surveys, users, and user groups. They can also assign surveys to user groups, and view the results of the surveys.<br/>
