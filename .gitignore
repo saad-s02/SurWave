@@ -2,12 +2,7 @@
 /.idea/**
 OpenSurveyBackend/.idea/**
 OpenSurveyBackend/bin/**
-.vs/ProjectSettings.json
-.vs/slnx.sqlite
-.vs/VSWorkspaceState.json
-.vs/BRIGHTLIGHT1EAZY/FileContentIndex/e364222e-763c-4a2d-8edb-af340f4280b2.vsidx
-.vs/BRIGHTLIGHT1EAZY/FileContentIndex/read.lock
-.vs/BRIGHTLIGHT1EAZY/v17/.wsuo
+.vs/
 OpenSurveyBackend/.vs/OpenSurveyBackend/DesignTimeBuild/.dtbcache.v2
 OpenSurveyBackend/.vs/OpenSurveyBackend/FileContentIndex/3dd273a3-86ad-4e24-8d9e-8697b26421db.vsidx
 OpenSurveyBackend/.vs/OpenSurveyBackend/DesignTimeBuild/.dtbcache.v2
